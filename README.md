@@ -1,1 +1,1 @@
-These files compressed of all the functions related javascript code
+These files compresses of all the functions used in javascript code
